@@ -9,6 +9,11 @@ public class CsvGenerator {
         System.out.println("new line3!!!");
         System.out.println("new line4!!!");
 
+        System.out.println("new line5!!!");
+        System.out.println("new line6!!!");
+
+
+
     }
 
     //todo создавать пустые csv файлы
