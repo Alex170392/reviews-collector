@@ -6,7 +6,7 @@ public class CsvGenerator {
         System.out.println("new line1!!!");
         System.out.println("new line2!!!");
 
-        System.out.println("new line3!!!");
+        System.out.println("new line3 yagoda malinka!!!");
         System.out.println("new line4!!!");
 
         System.out.println("new line5!!!");
